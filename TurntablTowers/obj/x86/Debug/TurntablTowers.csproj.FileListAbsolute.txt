@@ -1,0 +1,6 @@
+/home/kojoboat/Projects/TurntablTowers/TurntablTowers/bin/Debug/TurntablTowers.exe
+/home/kojoboat/Projects/TurntablTowers/TurntablTowers/bin/Debug/TurntablTowers.pdb
+/home/kojoboat/Projects/TurntablTowers/TurntablTowers/obj/x86/Debug/TurntablTowers.csprojAssemblyReference.cache
+/home/kojoboat/Projects/TurntablTowers/TurntablTowers/obj/x86/Debug/TurntablTowers.csproj.CoreCompileInputs.cache
+/home/kojoboat/Projects/TurntablTowers/TurntablTowers/obj/x86/Debug/TurntablTowers.exe
+/home/kojoboat/Projects/TurntablTowers/TurntablTowers/obj/x86/Debug/TurntablTowers.pdb
